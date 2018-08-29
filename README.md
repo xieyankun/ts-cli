@@ -1,2 +1,4 @@
-# 融合APP (蜻蜓FM)
+# ts-cli
+
+React + Typescript + Ant + Less + Webpack
 
